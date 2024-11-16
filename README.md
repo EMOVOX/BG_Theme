@@ -4,7 +4,7 @@
 Hello! This repository contains a collection of themes that I’ve curated based on my personal preferences, and I’m sharing them here for others to use and enjoy. Please note that these themes are not my own creations; they have been designed by other talented developers and designers. I’m simply sharing them as they are, with full respect to the original creators.
 
 ## Collection Contents
-  **Marble-gray-light/gnome-shell**
+  **Marble-gray-light/gnome-shell**  https://github.com/alvatip/Nordzy-icon.git \n
   **Nordzy-dark**
 
 ## Credits
